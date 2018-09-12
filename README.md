@@ -1,3 +1,6 @@
 # sample-repo-lab1
-# just an edit
 Just a github introduction 
+
+Line 1
+
+Line 2 on another branch
